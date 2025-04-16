@@ -155,6 +155,7 @@ b) System.out.print("1 "); System.out.print("2 "); System.out.print("3 "); Syste
 c) System.out.printf("%d %d %d %d%n", 1, 2, 3, 4);
 
 **5.15 Arithmetic Application** Write a Java program that reads two integers and prints their sum, product, difference, and quotient:
+**5.15 Arithmetic Application** Write a Java program that reads two integers and prints their sum, product, difference, and quotient:
 
 import java.util.Scanner;
 
